@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	
 	<name>maven-web-application</name>
 
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.122.3:8081/repository/siemens_release/</url>
+	      <url>http://13.233.223.74:8081/repository/siemens_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.122.3:8081/repository/siemens_snapshot/</url>
+	      <url>http://13.233.223.74:8081/repository/siemens_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
